@@ -1,6 +1,4 @@
-const sale = new Sale()  //create a new instances of sale
 
-/*
 let buttonCalculate = document.getElementById('buttonCalculate');
 let buttonReset = document.getElementById('buttonReset');
 let inputs = document.querySelectorAll('#commission-calculator .input');  //nodelist
@@ -66,4 +64,3 @@ const addForm = document.forms['commission-calculator'];   // create commission 
 
           });
 
-          */
